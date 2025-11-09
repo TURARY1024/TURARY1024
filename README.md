@@ -13,7 +13,6 @@
 
 - ⚡ Fun fact **I am willing to live in a different culture and create a wonderful world**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
