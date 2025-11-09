@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Pill_Identification_OCR-based](https://github.com/TURARY1024/Pill_Identification_OCR-based.git)
 
-- 🌱 I’m currently learning **EDA related coursework**
+- 🌱 I’m currently learning ** VLSI & embedded systems related coursework**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TURARY1024](https://github.com/TURARY1024)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **james921026@gmail.com**
 
-- ⚡ Fun fact **I am willing to live in different culture and create a wonderful world**
+- ⚡ Fun fact **I am willing to live in a different culture and create a wonderful world**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
