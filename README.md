@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm James</h1>
-<h3 align="center">I am student from Taiwan</h3>
+<h1 align="center">Hi, I'm James, a student from Taiwan</h1>
 
 - 🔭 I’m currently working on [Pill_Identification_OCR-based](https://github.com/TURARY1024/Pill_Identification_OCR-based.git)
 
-- 🌱 I’m currently learning ** VLSI & embedded systems related coursework**
+- 🌱 I’m currently learning VLSI & embedded systems related coursework
 
 - 👨‍💻 All of my projects are available at [https://github.com/TURARY1024](https://github.com/TURARY1024)
 
